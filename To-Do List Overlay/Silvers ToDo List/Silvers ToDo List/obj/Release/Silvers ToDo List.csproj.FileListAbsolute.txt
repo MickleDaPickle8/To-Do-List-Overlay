@@ -1,0 +1,12 @@
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\bin\Release\Icons\book_13566553_EfG_icon.ico
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\bin\Release\Silvers ToDo List.exe.config
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\bin\Release\Silvers ToDo List.exe
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\bin\Release\Silvers ToDo List.pdb
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers ToDo List.csproj.AssemblyReference.cache
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers_ToDo_List.frmToDoList.resources
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers_ToDo_List.Properties.Resources.resources
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers_ToDo_List.frmTaskView.resources
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers ToDo List.csproj.GenerateResource.cache
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers ToDo List.csproj.CoreCompileInputs.cache
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers ToDo List.exe
+C:\Users\Thele\OneDrive\Desktop\Everything\Silvers To-do list\Silvers ToDo List\Silvers ToDo List\obj\Release\Silvers ToDo List.pdb

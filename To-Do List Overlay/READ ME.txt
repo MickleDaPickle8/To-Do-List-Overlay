@@ -1,0 +1,77 @@
+##Silvers To-Do List##
+
+##Description
+
+Silvers To-Do List is a feature-rich task management application designed specifically for gamers. It allows users 
+to create, manage, and display task lists for their favorite games with customizable overlay functionality. The app is 
+lightweight, user-friendly, and provides flexibility in managing in-game or real-life tasks seamlessly.
+
+##Features
+
+##Game-Specific Task Lists:
+
+Manage separate to-do lists for multiple games.
+
+Switch between game-specific lists with a single click.
+
+##Overlay Management:
+
+Display a transparent overlay over your game with your to-do list.
+
+Reposition the overlay as needed by unlocking it.
+
+Lock the overlay to prevent accidental movement.
+
+##Customizable List Appearance:
+
+Edit the font, size, and color of the task list displayed in the overlay.
+
+Tailor the overlay text to fit your style or match the theme of your game.
+
+##Task Management:
+
+Add, edit, or remove tasks easily.
+
+Automatically save tasks to text files specific to each game.
+
+Load tasks from saved files when switching games.
+
+Requirements
+
+Windows OS
+
+.NET Framework 4.7.2 or higher
+
+How to Use
+
+##Select a Game:
+
+Use the radio buttons to choose the game for which you want to manage tasks.
+
+##Add Tasks:
+
+Enter a task in the input field and click the "Add Task" button.
+
+##View and Manage Tasks:
+
+Click "Show List" to open a detailed view of tasks.
+
+Add or remove tasks from the list view.
+
+##Customize Overlay:
+
+Click "Edit Overlay Text" to open options for customizing the text font, size, and color.
+
+##Overlay Controls:
+
+Use the "Toggle Overlay" button to show or hide the overlay.
+
+Lock or unlock the overlay using the "Lock" button.
+
+Attribution
+
+Icon by kerismaker
+
+License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this software as per the terms of the license.
